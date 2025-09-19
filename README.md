@@ -4,7 +4,7 @@
 ![Made with](https://img.shields.io/badge/Made%20with-Excel%20%26%20Python-green)  
 ![Focus](https://img.shields.io/badge/Focus-Portfolio%20Management-orange)  
 
-**Current Return:  **
+**Current Return:**
 
 This project simulates a **12-month, ₹10 lakh Indian equity portfolio** of 9 holdings diversified across sectors, plus a Gold ETF for diversification. It is designed to mirror **real-world portfolio management practices** with weekly tracking, monthly rebalancing, benchmarking, and behavioral finance insights. The repository is structured as a **professional portfolio management case study** intended to showcase discipline, financial modeling, and behavioral analysis — relevant for recruiters, fintechs, and B-school evaluators.  
 
