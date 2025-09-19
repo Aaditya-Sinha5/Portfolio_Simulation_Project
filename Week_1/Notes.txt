@@ -1,0 +1,6 @@
+We begin building the project on: 19/09/2025
+Work done this week:
+
+-> Finalized the Stock list
+-> Started work on the Stock Pitch for all the selected stocks
+-> setup the Excel Files
