@@ -16,10 +16,11 @@ This project simulates a **12-month, ₹10 lakh Indian equity portfolio** of 9 h
 - **Diversifier**: GoldBees (Gold ETF)  
 
 ## Repository Structure  
-- **Portfolio_Weekly_Prices.xlsx** → Master price sheet with weekly closing prices, holdings, and trade log.  
+- **Portfolio_Weekly_Prices.xlsx** → Master price sheet with weekly closing prices, holdings, and trade log.
+- **Portfolio_Allocation.xlsx** → Initial allocation of stocks, in the folder Week_1.  
 - **Portfolio_Tracker.xlsx** → Main analysis file tracking allocations, returns, equity curve, sector exposure, top performers, and detailed analysis tabs.  
 - **Shadow_Portfolio.xlsx** → Passive benchmark portfolio (frozen Week 1 allocation) used for alpha comparison.  
-- **logs/** → Weekly markdown commentary (Week_2 … Week_26) with performance notes, market events, and rebalance reasoning.  
+- **logs/** → Weekly markdown commentary (Week_2 … Week_52) with performance notes, market events, and rebalance reasoning.  
 - **summary/** → Final charts, statistics, regret heatmaps, and behavioral learnings.  
 - **scripts/** → Python automation tools (e.g., price_fetcher.py for automated data updates).  
 - **Week_1/** → Initial setup (stock list, allocation, rationale, conviction scores).  
